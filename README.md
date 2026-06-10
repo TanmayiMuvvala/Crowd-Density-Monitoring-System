@@ -34,7 +34,7 @@ Vision-Based Crowd Density Monitoring and Automated Emergency Alert System using
 2026 9th International Conference on Inventive Computation Technologies (ICICT)
 
 **DOI:**
-10.1109/ICICT68280.2026.11510723
+https://doi.org/10.1109/ICICT68280.2026.11510723
 
 **IEEE Xplore:**
 https://ieeexplore.ieee.org/document/11510723
